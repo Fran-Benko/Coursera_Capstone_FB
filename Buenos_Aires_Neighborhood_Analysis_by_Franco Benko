@@ -1,0 +1,12 @@
+Buenos Aires Neighborhood Analysis by Franco Benko
+
+Introduction/Business Problem
+
+My project consists of performing an analysis of each neighborhood of my city Capital Federal. 
+The analysis aims to understand which are the actual venue's frequency and train a clustering model for identifing 
+similar neighborhoods. 
+
+Data section
+
+About the data, I apply web scrapping to get the name of the Buenos Aires neighborhoods and it's geological coordinates.
+Then I am going to use that coordinates to get the information of the venues from the Foursquare API and analyze it.
